@@ -1,0 +1,12 @@
+{
+  "plan_id": "x2", "format": "single_image", "languages_out": ["hi"],
+  "carousel": null, "reel": null,
+  "single_image": {
+    "headline": "मंगलवार स्पेशल: लखनवी चिकन कोरमा",
+    "sub": "सुनीता जी के हाथ का स्वाद",
+    "visual_hint": "Sunita smiling at the camera, holding the handi, face visible, her daughter beside her"
+  },
+  "caption": [ { "lang": "hi", "text": "मंगलवार स्पेशल लखनवी चिकन कोरमा! घर पर बनाकर देखिए.\n\nRecipe chahiye toh comment karo!" } ],
+  "hashtags": ["#चिकनकोरमा", "#लखनऊकाखाना", "#LucknowFood"],
+  "story_text": { "lang": "hi", "text": "आज मंगलवार को चिकन कोरमा!" }
+}

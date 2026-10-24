@@ -1,0 +1,96 @@
+{
+  "ideas_considered": 17,
+  "posts": [
+    {
+      "id": "p1", "format": "reel",
+      "title": "கருவேப்பிலை பொடி: மூணு பொருள், பத்து நிமிஷம்",
+      "title_en": "Curry leaf podi: three ingredients, ten minutes",
+      "hook": "சூடான சாதத்துக்கு இதைவிட சுலபமான துணை இல்ல.",
+      "why_this_works": "முதல் வரியிலேயே எவ்வளவு சுலபம்னு சொன்னா, மக்கள் கடைசி வரைக்கும் பார்ப்பாங்க.",
+      "why_this_works_en": "Saying how easy it is in the first line keeps people watching to the end.",
+      "needs_filming": true,
+      "shot_list": [
+        { "shot": "தட்டுல பச்சை கருவேப்பிலையை கையால பரப்புங்க", "shot_en": "Hands spread fresh curry leaves on a steel plate", "seconds": 4, "where": "home kitchen", "how": "போனை ஒரு டப்பாவுல சாய்ச்சு வைங்க. ஜன்னல் பக்கம், மேல இருந்து எடுங்க." },
+        { "shot": "இரும்பு வாணலியில கருவேப்பிலை வறுக்குற கை", "shot_en": "Hand stirring curry leaves in an iron kadai", "seconds": 5, "where": "home kitchen", "how": "அடுப்புக்கு பக்கத்துல போனை சாய்ச்சு வைங்க. கை மட்டும் தெரியட்டும்." },
+        { "shot": "உளுந்தும் காய்ந்த மிளகாயும் பொன்னிறமா வறுக்குறது", "shot_en": "Urad dal and dried chillies roasting golden", "seconds": 4, "where": "home kitchen", "how": "அதே இடம், அதே கோணம்." },
+        { "shot": "ஆறினதை மிக்ஸியில போட்டு அரைக்குறது", "shot_en": "Pouring the cooled mix into the mixie and grinding", "seconds": 4, "where": "home kitchen", "how": "மிக்ஸி ஜாரை ஜன்னல் வெளிச்சத்துல வைங்க." },
+        { "shot": "சாதத்துல பொடி, நல்லெண்ணெய் போட்டு பிசையுற கை", "shot_en": "Hand mixing podi and sesame oil into rice", "seconds": 5, "where": "home kitchen", "how": "வாழை இலை இருந்தா அதுல வைங்க. மேல இருந்து எடுங்க." }
+      ],
+      "effort_minutes": 40, "scheduled_day": "mon", "shoot_slot": "mon 10:00, 90 min"
+    },
+    {
+      "id": "p2", "format": "carousel",
+      "title": "அம்மா காலத்து 5 பொடி: எதுக்கு எது?",
+      "title_en": "Mom's 5 podis: which one goes with what?",
+      "hook": "இட்லிக்கு ஒண்ணு, சாதத்துக்கு ஒண்ணு. உங்களுக்கு எத்தனை தெரியும்?",
+      "why_this_works": "பட்டியல் மாதிரி தகவல் கொடுத்தா, மக்கள் அதைச் சேமிச்சு வச்சுக்குவாங்க.",
+      "why_this_works_en": "List-style tips get saved for later.",
+      "needs_filming": false, "shot_list": [], "effort_minutes": 10,
+      "scheduled_day": "tue", "shoot_slot": null
+    },
+    {
+      "id": "p3", "format": "single_image",
+      "title": "இன்னைக்கு மதியம்: கத்தரிக்காய் காரக்குழம்பு",
+      "title_en": "Today's lunch: brinjal kara kuzhambu",
+      "hook": "மண்சட்டியில கொதிக்கிற வாசனை இங்க வரைக்கும் வருது!",
+      "why_this_works": "அன்றாட சமையலே போதும். உண்மையான ஒரு படம் நம்பிக்கையைக் கொடுக்கும்.",
+      "why_this_works_en": "Everyday cooking is enough; one real photo builds trust.",
+      "needs_filming": true,
+      "shot_list": [
+        { "shot": "ஜன்னல் வெளிச்சத்துல மண்சட்டி குழம்பை மேல இருந்து ஒரு போட்டோ", "shot_en": "One top-down photo of the clay-pot kuzhambu in window light", "seconds": 0, "where": "home kitchen", "how": "சட்டியை ஜன்னல் பக்கம் வைங்க. போனை நேரா மேல பிடிங்க." }
+      ],
+      "effort_minutes": 10, "scheduled_day": "wed", "shoot_slot": "wed 10:00, 90 min"
+    },
+    {
+      "id": "p4", "format": "reel",
+      "title": "மண்சட்டி மீன் குழம்பு: அம்மா ரகசியம்",
+      "title_en": "Clay-pot fish kuzhambu: mother's secret",
+      "hook": "ரகசியம் புளி கரைக்கிறதுல தான் இருக்கு.",
+      "why_this_works": "ஒரு ரகசியம் இருக்குன்னு சொன்னா, அதைத் தெரிஞ்சுக்க மக்கள் கடைசி வரை பார்ப்பாங்க.",
+      "why_this_works_en": "Promising a secret makes people watch till it's revealed.",
+      "needs_filming": true,
+      "shot_list": [
+        { "shot": "கையால புளியைத் தண்ணியில கரைக்குறது", "shot_en": "Hand squeezing tamarind in water", "seconds": 5, "where": "home kitchen", "how": "கிண்ணத்தை ஜன்னல் பக்கம் வைங்க, மேல இருந்து எடுங்க." },
+        { "shot": "மண்சட்டியில தாளிக்குறது", "shot_en": "Tempering in the clay pot", "seconds": 5, "where": "home kitchen", "how": "போனை டப்பாவுல சாய்ச்சு வைங்க." },
+        { "shot": "மீன் துண்டுகளை மெதுவா குழம்புல வைக்குற கை", "shot_en": "Hand gently placing fish pieces into the gravy", "seconds": 5, "where": "home kitchen", "how": "கை மட்டும் தெரியட்டும்." }
+      ],
+      "effort_minutes": 40, "scheduled_day": "thu", "shoot_slot": "thu 10:00, 90 min"
+    },
+    {
+      "id": "p5", "format": "carousel",
+      "title": "எந்த பொடி உங்க வீட்டுக்கு வேணும்?",
+      "title_en": "Which podi would you want at home?",
+      "hook": "என் பொடி உங்க வீட்டுக்கு வரணும்னா, எது முதல்ல வேணும்?",
+      "why_this_works": "விற்கிறதுக்கு முன்னாடி மக்கள்கிட்டயே கேட்டா, எது விற்கும்னு தெரிஞ்சிடும்.",
+      "why_this_works_en": "Asking before selling tells you what will sell.",
+      "needs_filming": true,
+      "shot_list": [
+        { "shot": "நாலு பொடி டப்பாக்களை ஜன்னல் ஓரத்துல வரிசையா வச்சு ஒரு போட்டோ", "shot_en": "One photo of four podi jars in a row by the window", "seconds": 0, "where": "home kitchen", "how": "டப்பா மூடியைத் திறந்து வைங்க, பொடி தெரியட்டும்." }
+      ],
+      "effort_minutes": 15, "scheduled_day": "sat", "shoot_slot": "sat 10:00, 90 min"
+    }
+  ],
+  "stories": [
+    { "day": "mon", "type": "poll", "text": "இட்லிக்கு உங்களுக்கு எது பிடிக்கும்? பொடி / சட்னி", "text_en": "What do you like with idli? Podi / Chutney", "needs_photo": false, "photo_hint": null },
+    { "day": "tue", "type": "question", "text": "உங்க அம்மா செஞ்ச எந்த சமையலை இப்போ ரொம்ப நினைக்கிறீங்க?", "text_en": "Which of your mother's dishes do you miss most?", "needs_photo": false, "photo_hint": null },
+    { "day": "wed", "type": "behind_the_scenes", "text": "இன்னைக்கு காலையில வெயில்ல காயுற மிளகாய்.", "text_en": "Chillies drying in the sun this morning.", "needs_photo": true, "photo_hint": "Red chillies drying on a plate in sunlight by the kitchen window. Hands only, if any." },
+    { "day": "thu", "type": "tip", "text": "வறுத்தது ஆறின பிறகுதான் அரைக்கணும். அப்போதான் வாசனை போகாது.", "text_en": "Grind only after the roast cools, so the aroma stays.", "needs_photo": false, "photo_hint": null },
+    { "day": "fri", "type": "quiz", "text": "வெள்ளிக்கிழமை ஸ்பெஷல்: பருப்பு உருண்டை குழம்பு சாப்பிட்டிருக்கீங்களா? ஆமா / இல்ல", "text_en": "Friday special: ever had paruppu urundai kuzhambu? Yes / No", "needs_photo": false, "photo_hint": null },
+    { "day": "sat", "type": "reminder", "text": "புது பதிவு: எந்த பொடி உங்களுக்கு வேணும்? சொல்லுங்க!", "text_en": "New post: which podi do you want? Tell me!", "needs_photo": false, "photo_hint": null },
+    { "day": "sun", "type": "poll", "text": "அடுத்த வாரம் என்ன சமைக்கலாம்? ரசம் / பலகாரம்", "text_en": "What should I cook next week? Rasam / Snacks", "needs_photo": false, "photo_hint": null }
+  ],
+  "filtered_out": [
+    { "idea": "Talking-to-camera recipe tutorial", "killed_by": "camera", "reason": "Needs your face; you show only hands and voice" },
+    { "idea": "AI avatar host for recipes", "killed_by": "boundary", "reason": "You said no AI version of yourself" },
+    { "idea": "\"Meet my family\" Sunday lunch reel", "killed_by": "boundary", "reason": "Sunday the family is home, and no family names or faces" },
+    { "idea": "Village market shopping vlog", "killed_by": "place", "reason": "You can only film in your kitchen" },
+    { "idea": "Pooja-room festival offering reel", "killed_by": "boundary", "reason": "You don't want the pooja room shown" },
+    { "idea": "Friday chicken biryani special", "killed_by": "boundary", "reason": "No non-vegetarian cooking on Fridays" },
+    { "idea": "Cinematic slow-motion food b-roll", "killed_by": "tech", "reason": "Old Redmi, no tripod: slow-mo looks shaky and dark" },
+    { "idea": "Daily 2-minute live cooking session", "killed_by": "tech", "reason": "Patchy internet drops Instagram Live" },
+    { "idea": "English recipe captions for global reach", "killed_by": "language", "reason": "You post only in Tamil; your audience is Tamil speakers" },
+    { "idea": "Ring-light studio-style plating shots", "killed_by": "budget", "reason": "₹0 budget; window light works fine" },
+    { "idea": "One recipe reel every day", "killed_by": "time", "reason": "Two to three hours a week fits about two reels" },
+    { "idea": "Restaurant review reels", "killed_by": "goal_fit", "reason": "Doesn't build trust in your own podi, which you want to sell" }
+  ]
+}

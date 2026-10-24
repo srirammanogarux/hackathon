@@ -1,0 +1,40 @@
+# Render Blueprint for Saathi (Next.js app in web/).
+# Slides are rendered server-side with Playwright Chromium when it can launch; otherwise the
+# client draws them in HTML. Reels need ffmpeg + ELEVENLABS_API_KEY; without them a pre-rendered
+# demo reel is served. For full server rendering (ffmpeg), switch to a Docker service.
+services:
+  - type: web
+    name: saathi
+    runtime: node
+    rootDir: web
+    plan: starter
+    buildCommand: npm ci && (npx playwright install chromium || true) && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/config
+    envVars:
+      - key: NODE_VERSION
+        value: "24"
+      - key: PLAYWRIGHT_BROWSERS_PATH
+        value: "0"
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: ELEVENLABS_API_KEY
+        sync: false
+      - key: ELEVENLABS_VOICE_ID
+        sync: false
+      - key: PINELABS_CLIENT_ID
+        sync: false
+      - key: PINELABS_CLIENT_SECRET
+        sync: false
+      - key: PINELABS_BASE_URL
+        sync: false
+      - key: AGENTICORG_API_KEY
+        sync: false
+      - key: AGENTICORG_BASE_URL
+        sync: false
+      - key: IG_USER_ID
+        sync: false
+      - key: IG_ACCESS_TOKEN
+        sync: false
+      - key: APP_BASE_URL
+        sync: false

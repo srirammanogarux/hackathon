@@ -1,0 +1,96 @@
+{
+  "ideas_considered": 17,
+  "posts": [
+    {
+      "id": "p1", "format": "reel",
+      "title": "आलू पराठा: फूला-फूला, बिल्कुल नहीं फटेगा",
+      "title_en": "Aloo paratha that puffs up and never tears",
+      "hook": "पराठा बेलते ही फट जाता है? बस एक गलती है.",
+      "why_this_works": "पहली लाइन में आम परेशानी बोलो, तो लोग हल जानने के लिए आख़िर तक देखते हैं.",
+      "why_this_works_en": "Naming a common problem in the first line keeps people watching for the fix.",
+      "needs_filming": true,
+      "shot_list": [
+        { "shot": "उबले आलू हाथ से मसलना", "shot_en": "Hands mashing boiled potatoes in a steel bowl", "seconds": 4, "where": "home kitchen", "how": "फ़ोन को डिब्बे पर टिकाओ. खिड़की के पास, ऊपर से लो." },
+        { "shot": "आलू में हरी मिर्च, धनिया, अमचूर मिलाना", "shot_en": "Mixing green chilli, coriander and amchur into the potato", "seconds": 4, "where": "home kitchen", "how": "वही जगह, वही एंगल. सिर्फ़ हाथ दिखें." },
+        { "shot": "लोई में भरावन भरकर बंद करना", "shot_en": "Stuffing the filling into a dough ball and sealing it", "seconds": 5, "where": "home kitchen", "how": "हाथ फ़्रेम के बीच में रखो." },
+        { "shot": "हल्के हाथ से बेलना", "shot_en": "Rolling gently with light pressure", "seconds": 4, "where": "home kitchen", "how": "चकले को खिड़की की रोशनी में रखो." },
+        { "shot": "तवे पर घी लगाकर पराठा फूलना", "shot_en": "Paratha puffing on the tawa with ghee", "seconds": 5, "where": "home kitchen", "how": "फ़ोन तवे के पास टिकाओ, चेहरा फ़्रेम में न आए." }
+      ],
+      "effort_minutes": 40, "scheduled_day": "mon", "shoot_slot": "mon 14:00, 90 min"
+    },
+    {
+      "id": "p2", "format": "carousel",
+      "title": "दिवाली की मठरी: खस्ता बनाने के 5 राज़",
+      "title_en": "Diwali mathri: 5 secrets for flaky mathri",
+      "hook": "मठरी सख़्त बनती है? ये 5 बातें याद रखो.",
+      "why_this_works": "त्योहार से पहले काम की लिस्ट दो, लोग उसे सेव करके रखते हैं.",
+      "why_this_works_en": "A useful list before a festival gets saved for later.",
+      "needs_filming": false, "shot_list": [], "effort_minutes": 10,
+      "scheduled_day": "tue", "shoot_slot": null
+    },
+    {
+      "id": "p3", "format": "single_image",
+      "title": "आज का खाना: दाल तड़का और जीरा राइस",
+      "title_en": "Today's lunch: dal tadka and jeera rice",
+      "hook": "घी वाला तड़का, और पूरा घर रसोई में!",
+      "why_this_works": "रोज़ का खाना ही काफ़ी है. एक असली फ़ोटो से भरोसा बनता है.",
+      "why_this_works_en": "Everyday cooking is enough; one real photo builds trust.",
+      "needs_filming": true,
+      "shot_list": [
+        { "shot": "खिड़की की रोशनी में दाल और जीरा राइस की ऊपर से एक फ़ोटो", "shot_en": "One top-down photo of dal tadka and jeera rice in window light", "seconds": 0, "where": "home kitchen", "how": "थाली खिड़की के पास रखो. फ़ोन सीधा ऊपर पकड़ो." }
+      ],
+      "effort_minutes": 10, "scheduled_day": "wed", "shoot_slot": "wed 14:00, 90 min"
+    },
+    {
+      "id": "p4", "format": "reel",
+      "title": "गुजिया: माँ का तरीका, बिना साँचे के",
+      "title_en": "Gujiya: mother's way, no mould",
+      "hook": "साँचा नहीं है? हाथ से गुजिया ऐसे मोड़ो.",
+      "why_this_works": "कोई तरकीब दिखाने का वादा करो, लोग उसे देखने तक रुकते हैं.",
+      "why_this_works_en": "Promising a trick makes people stay until they see it.",
+      "needs_filming": true,
+      "shot_list": [
+        { "shot": "मावा और सूखे मेवे का भरावन मिलाना", "shot_en": "Hands mixing khoya and dry-fruit filling", "seconds": 5, "where": "home kitchen", "how": "कटोरी खिड़की के पास रखो, ऊपर से लो." },
+        { "shot": "पूरी में भरावन रखकर किनारा मोड़ना", "shot_en": "Filling the pastry circle and pleating the edge by hand", "seconds": 6, "where": "home kitchen", "how": "उंगलियों के पास से, क्लोज़-अप." },
+        { "shot": "कड़ाही में गुजिया सुनहरी तलना", "shot_en": "Gujiya frying golden in the kadai", "seconds": 5, "where": "home kitchen", "how": "फ़ोन को डिब्बे पर टिकाओ. सिर्फ़ कड़ाही दिखे." }
+      ],
+      "effort_minutes": 40, "scheduled_day": "thu", "shoot_slot": "thu 14:00, 90 min"
+    },
+    {
+      "id": "p5", "format": "carousel",
+      "title": "दिवाली डिब्बा: आपको कौन सा चाहिए?",
+      "title_en": "Diwali box: which one would you want?",
+      "hook": "मेरा दिवाली डिब्बा आपके घर आए, तो पहले क्या चाहिए?",
+      "why_this_works": "बेचने से पहले लोगों से पूछो, पता चल जाएगा क्या बिकेगा.",
+      "why_this_works_en": "Asking before selling tells you what will sell.",
+      "needs_filming": true,
+      "shot_list": [
+        { "shot": "मठरी, गुजिया, नमकपारे के डिब्बे खिड़की के पास लाइन में", "shot_en": "One photo of mathri, gujiya and namakpare boxes in a row by the window", "seconds": 0, "where": "home kitchen", "how": "डिब्बे खोलकर रखो, अंदर का माल दिखे." }
+      ],
+      "effort_minutes": 15, "scheduled_day": "sat", "shoot_slot": "sat 14:00, 90 min"
+    }
+  ],
+  "stories": [
+    { "day": "mon", "type": "poll", "text": "पराठे के साथ क्या पसंद है? दही / अचार", "text_en": "What do you like with paratha? Curd / Pickle", "needs_photo": false, "photo_hint": null },
+    { "day": "tue", "type": "question", "text": "माँ के हाथ की कौन सी चीज़ सबसे ज़्यादा याद आती है?", "text_en": "Which of your mother's dishes do you miss most?", "needs_photo": false, "photo_hint": null },
+    { "day": "wed", "type": "behind_the_scenes", "text": "आज धूप में सूखती लाल मिर्च.", "text_en": "Red chillies drying in the sun today.", "needs_photo": true, "photo_hint": "Red chillies drying on a plate by the kitchen window. Hands only, if any." },
+    { "day": "thu", "type": "tip", "text": "मठरी धीमी आँच पर तलो, तभी खस्ता बनेगी.", "text_en": "Fry mathri on a low flame so it turns flaky.", "needs_photo": false, "photo_hint": null },
+    { "day": "fri", "type": "countdown", "text": "दिवाली में बस 15 दिन! आपकी तैयारी कैसी है?", "text_en": "15 days to Diwali! How's your prep?", "needs_photo": false, "photo_hint": null },
+    { "day": "sat", "type": "reminder", "text": "नई पोस्ट: कौन सा दिवाली डिब्बा चाहिए? बताओ!", "text_en": "New post: which Diwali box do you want? Tell me!", "needs_photo": false, "photo_hint": null },
+    { "day": "sun", "type": "poll", "text": "अगले हफ़्ते क्या बनाऊँ? छोले / कढ़ी", "text_en": "What should I cook next week? Chole / Kadhi", "needs_photo": false, "photo_hint": null }
+  ],
+  "filtered_out": [
+    { "idea": "Talking-to-camera recipe tutorial", "killed_by": "camera", "reason": "Needs your face; you show only your hands" },
+    { "idea": "AI avatar host for recipes", "killed_by": "boundary", "reason": "You said no AI version of yourself" },
+    { "idea": "\"Family taste test\" Sunday reel", "killed_by": "boundary", "reason": "No family members in frame" },
+    { "idea": "Aminabad market shopping vlog", "killed_by": "place", "reason": "You can only film in your kitchen" },
+    { "idea": "Diwali pooja thali reel", "killed_by": "boundary", "reason": "You don't want the pooja corner shown" },
+    { "idea": "Tuesday mutton biryani special", "killed_by": "boundary", "reason": "No non-vegetarian cooking on Tuesdays" },
+    { "idea": "Cinematic slow-motion food b-roll", "killed_by": "tech", "reason": "Old Samsung, no tripod: slow-mo looks shaky and dark" },
+    { "idea": "Daily live cooking session", "killed_by": "tech", "reason": "Patchy internet drops Instagram Live" },
+    { "idea": "English recipe captions for global reach", "killed_by": "language", "reason": "You post in Hindi; your audience speaks Hindi" },
+    { "idea": "Ring-light studio-style plating shots", "killed_by": "budget", "reason": "₹0 budget; window light works fine" },
+    { "idea": "One recipe reel every day", "killed_by": "time", "reason": "Two to three hours a week fits about two reels" },
+    { "idea": "Restaurant review reels", "killed_by": "goal_fit", "reason": "Doesn't build trust in your own Diwali boxes, which you want to sell" }
+  ]
+}

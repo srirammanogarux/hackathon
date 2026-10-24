@@ -1,0 +1,18 @@
+{
+  "plan_id": "p1", "format": "reel", "languages_out": ["hi"],
+  "carousel": null,
+  "reel": { "duration_s": 24, "voiceover_lang": "hi", "lines": [
+    { "t_start": 0, "t_end": 4, "voiceover": "पराठा बेलते ही फट जाता है? बस एक गलती है.", "on_screen_text": "पराठा फटता है?", "shot": "Top-down: hands mashing boiled potatoes in a steel bowl; phone leaned on a jar by the window" },
+    { "t_start": 4, "t_end": 8, "voiceover": "आलू को ठंडा करके अच्छे से मसलो, कोई गाँठ न रहे.", "on_screen_text": "आलू ठंडे, बिना गाँठ", "shot": "Close-up: hands mashing potatoes until smooth" },
+    { "t_start": 8, "t_end": 12, "voiceover": "हरी मिर्च, धनिया, अमचूर और नमक. पानी बिल्कुल नहीं.", "on_screen_text": "भरावन सूखा रखो", "shot": "Hands mixing green chilli, coriander and amchur into the potato" },
+    { "t_start": 12, "t_end": 17, "voiceover": "लोई में भरकर अच्छे से बंद करो, और हल्के हाथ से बेलो.", "on_screen_text": "हल्के हाथ से बेलो", "shot": "Hands sealing the stuffed dough ball and rolling it gently" },
+    { "t_start": 17, "t_end": 21, "voiceover": "तवे पर घी लगाओ, और देखो पराठा कैसे फूलता है.", "on_screen_text": "घी + तवा = फूला पराठा", "shot": "Paratha puffing on the tawa with ghee, hands only" },
+    { "t_start": 21, "t_end": 24, "voiceover": "मेरी माँ का तरीका है. आप भी बनाकर देखिए.", "on_screen_text": "सेव कर लो", "shot": "Paratha on a steel plate with curd and pickle in window light, no people" }
+  ] },
+  "single_image": null,
+  "caption": [
+    { "lang": "hi", "text": "पराठा बेलते ही फट जाता है? बस एक गलती है!\n\nआलू ठंडे करके मसलो, भरावन में पानी बिल्कुल नहीं, और हल्के हाथ से बेलो. तवे पर घी, और पराठा फूल जाएगा. मेरी माँ का तरीका है.\n\nBanake dekho aur comment mein batao kaisa bana!" }
+  ],
+  "hashtags": ["#आलूपराठा", "#घरकाखाना", "#लखनऊ", "#नाश्ता", "#AlooParatha", "#LucknowFood", "#IndianBreakfast", "#HomeCooking", "#DesiKhana", "#Lucknow"],
+  "story_text": { "lang": "hi", "text": "नई वीडियो: फूला-फूला आलू पराठा, बिना फटे!" }
+}

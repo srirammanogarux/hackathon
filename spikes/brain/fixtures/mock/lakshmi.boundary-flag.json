@@ -1,0 +1,21 @@
+{
+  "verdict": "flag",
+  "reasons": [
+    { "rule_id": "CAMERA", "rule": "Camera level 2: her face must not appear", "where": "single_image.visual_hint", "excerpt": "face visible", "severity": "block" },
+    { "rule_id": "CULTURAL", "rule": "No non-vegetarian cooking or posts on Fridays", "where": "single_image.headline", "excerpt": "வெள்ளிக்கிழமை ஸ்பெஷல்: சிக்கன் குழம்பு", "severity": "block" }
+  ],
+  "explain": "இதுல உங்க முகம் தெரியுது, வெள்ளிக்கிழமை அசைவமும் இருக்கு. ரெண்டையும் மாத்தி, சைவ குழம்பா எழுதியிருக்கேன்.",
+  "explain_pass": "எல்லாம் சரியா இருக்கு. நீங்க சொன்ன எல்லா விதிக்கும் பொருந்துது, போடலாம்!",
+  "safe_rewrite": {
+    "plan_id": "x2", "format": "single_image", "languages_out": ["ta"],
+    "carousel": null, "reel": null,
+    "single_image": {
+      "headline": "வெள்ளிக்கிழமை ஸ்பெஷல்: பருப்பு உருண்டை குழம்பு",
+      "sub": "அம்மா கை மணம்",
+      "visual_hint": "Top-down photo of the clay pot of kuzhambu in window light; hands only, no face"
+    },
+    "caption": [ { "lang": "ta", "text": "வெள்ளிக்கிழமை ஸ்பெஷல் பருப்பு உருண்டை குழம்பு! செஞ்சு பாருங்க." } ],
+    "hashtags": ["#பருப்புஉருண்டைகுழம்பு", "#தமிழ்சமையல்", "#சைவசமையல்"],
+    "story_text": { "lang": "ta", "text": "வெள்ளிக்கிழமை பருப்பு உருண்டை குழம்பு!" }
+  }
+}

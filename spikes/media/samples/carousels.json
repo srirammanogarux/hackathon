@@ -1,0 +1,52 @@
+{
+  "hi": {
+    "language": "hi",
+    "brand": { "color": "#0F766E", "handle": "@smiledentalcare" },
+    "slides": [
+      { "headline": "दाँतों की सही देखभाल: 3 आसान आदतें", "body": "डॉ. प्रिया शर्मा, दंत चिकित्सक की सलाह। स्वस्थ मुस्कान के लिए शुरुआत आज से।" },
+      { "headline": "दिन में दो बार ब्रश करें", "body": "मुलायम ब्रश और फ़्लोराइड टूथपेस्ट से कम से कम दो मिनट तक ब्रश कीजिए।" },
+      { "headline": "फ़्लॉस करना न भूलें", "body": "दाँतों के बीच फँसा खाना मसूड़ों की सूजन और कैविटी का सबसे बड़ा कारण है।" },
+      { "headline": "हर छह महीने में जाँच", "body": "नियमित जाँच से छोटी समस्या बड़ी बनने से पहले पकड़ में आ जाती है। सुरक्षित और शुद्ध आदतें अपनाइए।" }
+    ]
+  },
+  "kn": {
+    "language": "kn",
+    "brand": { "color": "#B45309", "handle": "@ammas_kitchen_blr" },
+    "slides": [
+      { "headline": "ಮನೆಯಲ್ಲೇ ಗರಿಗರಿ ದೋಸೆ", "body": "ಅಡುಗೆಮನೆಯ ಮೂರು ಸರಳ ಸಲಹೆಗಳು" },
+      { "headline": "ಹಿಟ್ಟನ್ನು ಸರಿಯಾಗಿ ಹುದುಗಿಸಿ", "body": "ಅಕ್ಕಿ ಮತ್ತು ಉದ್ದಿನ ಬೇಳೆಯನ್ನು 4:1 ಅನುಪಾತದಲ್ಲಿ ನೆನೆಸಿ, ರಾತ್ರಿಯಿಡೀ ಬೆಚ್ಚಗಿನ ಜಾಗದಲ್ಲಿ ಇಡಿ." },
+      { "headline": "ತವಾ ಚೆನ್ನಾಗಿ ಕಾಯಲಿ", "body": "ತವಾದ ಮೇಲೆ ನೀರು ಚಿಮುಕಿಸಿ; ಅದು ತಕ್ಷಣ ಆವಿಯಾದರೆ ದೋಸೆ ಹುಯ್ಯಲು ಸಿದ್ಧ." },
+      { "headline": "ಸ್ವಲ್ಪ ಸಕ್ಕರೆ ಸೇರಿಸಿ", "body": "ಒಂದು ಚಿಟಿಕೆ ಸಕ್ಕರೆ ಬಂಗಾರದ ಬಣ್ಣ ಮತ್ತು ಗರಿಗರಿ ರುಚಿ ಕೊಡುತ್ತದೆ." }
+    ]
+  },
+  "ta": {
+    "language": "ta",
+    "brand": { "color": "#1D4ED8", "handle": "@sri_dental_chennai" },
+    "slides": [
+      { "headline": "பல் ஆரோக்கியம்: 3 எளிய பழக்கங்கள்", "body": "ஸ்ரீ பல் மருத்துவமனையின் ஆலோசனை" },
+      { "headline": "தினமும் இருமுறை பல் துலக்குங்கள்", "body": "மென்மையான பிரஷ் மற்றும் ஃப்ளூரைடு பற்பசையுடன் இரண்டு நிமிடங்கள் துலக்கவும்." },
+      { "headline": "இனிப்புகளைக் குறையுங்கள்", "body": "சர்க்கரை உணவுகளுக்குப் பிறகு வாயைத் தண்ணீரால் கொப்பளிக்கவும்." },
+      { "headline": "ஆறு மாதத்திற்கு ஒருமுறை பரிசோதனை", "body": "சிறிய பிரச்சனைகளை ஆரம்பத்திலேயே கண்டறிவது நல்லது." }
+    ]
+  },
+  "te": {
+    "language": "te",
+    "brand": { "color": "#BE123C", "handle": "@vantillu_hyd" },
+    "slides": [
+      { "headline": "రుచికరమైన పెసరట్టు రహస్యాలు", "body": "వంటింటి చిట్కాలు: మూడు సులభ దశలు" },
+      { "headline": "పెసలను సరిగ్గా నానబెట్టండి", "body": "పెసలను కనీసం ఆరు గంటలు నానబెట్టి, అల్లం, పచ్చిమిర్చితో మెత్తగా రుబ్బండి." },
+      { "headline": "పెనం బాగా వేడెక్కాలి", "body": "పెనంపై కొద్దిగా నీళ్లు చల్లండి; వెంటనే ఆవిరైతే పిండి పోయడానికి సిద్ధం." },
+      { "headline": "ఉప్మాతో కలిపి వడ్డించండి", "body": "అల్లం చట్నీతో వేడివేడిగా వడ్డిస్తే రుచి అద్భుతం! స్వాదిష్టమైన ఉదయం." }
+    ]
+  },
+  "en": {
+    "language": "en",
+    "brand": { "color": "#4338CA", "handle": "@brightsmile.blr" },
+    "slides": [
+      { "headline": "3 habits for a healthier smile", "body": "Simple tips from your neighbourhood dentist." },
+      { "headline": "Brush twice a day", "body": "Use a soft brush and fluoride toothpaste for at least two minutes." },
+      { "headline": "Don't skip flossing", "body": "Food stuck between teeth is the biggest cause of gum swelling and cavities." },
+      { "headline": "Check-up every 6 months", "body": "Regular check-ups catch small problems before they become big ones." }
+    ]
+  }
+}

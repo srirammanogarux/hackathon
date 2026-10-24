@@ -1,0 +1,30 @@
+{
+  "name": "Lakshmi",
+  "profession": "home cook",
+  "city": "Thirumangalam, near Madurai",
+  "language_in": "ta",
+  "languages_out": ["ta"],
+  "goal": "side_income",
+  "level": "never",
+  "what_they_share": "Traditional Tamil home cooking: village kuzhambu, podi varieties and sweets taught by her mother; wants to sell podi and pickles later.",
+  "audience": { "type": "broad", "radius_km": null, "description": "Tamil speakers anywhere, including the Tamil diaspora abroad" },
+  "camera_level": 2,
+  "time_per_week": 150,
+  "shoot_slots": [
+    { "day": "mon", "start": "10:00", "minutes": 90, "note": "after family leaves" },
+    { "day": "tue", "start": "10:00", "minutes": 90, "note": "after family leaves" },
+    { "day": "wed", "start": "10:00", "minutes": 90, "note": "after family leaves" },
+    { "day": "thu", "start": "10:00", "minutes": 90, "note": "after family leaves" },
+    { "day": "fri", "start": "10:00", "minutes": 90, "note": "after family leaves; vegetarian only" },
+    { "day": "sat", "start": "10:00", "minutes": 90, "note": "after family leaves" }
+  ],
+  "places": ["home kitchen"],
+  "tech": { "phone": "old Redmi Android", "tripod": false, "light": "window", "internet": "patchy" },
+  "budget": 0,
+  "boundaries": {
+    "personal": ["never show her face", "no AI avatar", "never say her husband's name", "never reveal home address"],
+    "cultural": ["no non-vegetarian cooking or posts on Fridays", "do not show the pooja room"],
+    "professional": []
+  },
+  "inspirations": ["village cooking videos on YouTube"]
+}

@@ -1,0 +1,86 @@
+{
+  "ideas_considered": 17,
+  "posts": [
+    {
+      "id": "p1", "format": "carousel",
+      "title": "ಮಗುವಿನ ಮೊದಲ dental visit ಯಾವಾಗ?",
+      "title_en": "When should your child first see a dentist?",
+      "hook": "ಹಲ್ಲು ನೋವಾದಾಗ ಅಲ್ಲ. ಅದಕ್ಕಿಂತ ತುಂಬಾ ಮುಂಚೆ.",
+      "why_this_works": "ಜನ ಈಗಾಗಲೇ ಕೇಳ್ತಿರೋ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರ ಕೊಟ್ರೆ, ಅವರು save ಮಾಡ್ತಾರೆ, share ಮಾಡ್ತಾರೆ.",
+      "why_this_works_en": "Answering a question parents already ask gets saved and shared.",
+      "needs_filming": false, "shot_list": [], "effort_minutes": 10,
+      "scheduled_day": "mon", "shoot_slot": null
+    },
+    {
+      "id": "p2", "format": "reel",
+      "title": "Brushing ನಲ್ಲಿ 3 ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳು",
+      "title_en": "3 common brushing mistakes",
+      "hook": "ದಿನಾ brush ಮಾಡ್ತೀರಾ, ಆದ್ರೂ cavity ಯಾಕೆ?",
+      "why_this_works": "ಮೊದಲ ಎರಡು ಸೆಕೆಂಡ್‌ನಲ್ಲೇ ಒಂದು ಪ್ರಶ್ನೆ ಕೇಳಿದ್ರೆ, ಜನ scroll ಮಾಡೋದು ನಿಲ್ಲಿಸ್ತಾರೆ.",
+      "why_this_works_en": "A question in the first two seconds stops the scroll.",
+      "needs_filming": true,
+      "shot_list": [
+        { "shot": "Jaw model ಮೇಲೆ brush ಅನ್ನು 45 ಡಿಗ್ರಿ ಕೋನದಲ್ಲಿ ಇಟ್ಟು ತೋರಿಸಿ", "shot_en": "Hands hold a brush at 45 degrees on a jaw model", "seconds": 8, "where": "clinic consultation room", "how": "ಫೋನ್ ಅನ್ನು ಒಂದು ಪುಸ್ತಕಕ್ಕೆ ಒರಗಿಸಿ, ಮೇಲಿನಿಂದ ತೆಗೆಯಿರಿ. ಕೈಗಳು ಮಾತ್ರ ಕಾಣಲಿ." },
+        { "shot": "ಜೋರಾಗಿ ಉಜ್ಜೋದು, ಆಮೇಲೆ ಸಣ್ಣ ವೃತ್ತದಲ್ಲಿ ಮೃದುವಾಗಿ ಉಜ್ಜೋದು", "shot_en": "Hard scrubbing, then gentle small circles, on the model", "seconds": 8, "where": "clinic consultation room", "how": "ಅದೇ ಜಾಗ, ಅದೇ angle. ಎರಡನ್ನೂ ಒಂದೇ take ನಲ್ಲಿ ತೆಗೆಯಿರಿ." },
+        { "shot": "ಹಳೆಯ ಅರಳಿದ brush ಮತ್ತು ಹೊಸ brush ಪಕ್ಕ ಪಕ್ಕ", "shot_en": "A worn-out brush next to a new one", "seconds": 4, "where": "clinic reception", "how": "Reception counter ಮೇಲೆ ಇಟ್ಟು, ಹತ್ತಿರದಿಂದ ತೆಗೆಯಿರಿ." }
+      ],
+      "effort_minutes": 25, "scheduled_day": "tue", "shoot_slot": "tue 15:00, 30 min"
+    },
+    {
+      "id": "p3", "format": "single_image",
+      "title": "ತಣ್ಣೀರು ಕುಡಿದಾಗ ಹಲ್ಲು ಜುಮ್ ಅನ್ನುತ್ತಾ?",
+      "title_en": "Do your teeth tingle with cold water?",
+      "hook": "ಇದಕ್ಕೆ sensitivity ಅಂತಾರೆ. ಮೂರು ಮುಖ್ಯ ಕಾರಣಗಳು ಇಲ್ಲಿವೆ.",
+      "why_this_works": "ಒಂದು ಚಿತ್ರ, ಒಂದು ಸಮಸ್ಯೆ, ಒಂದು ಉತ್ತರ: ಸಣ್ಣ post ಅನ್ನು ಜನ ಪೂರ್ತಿ ಓದ್ತಾರೆ.",
+      "why_this_works_en": "One image, one problem, one answer: short posts get read to the end.",
+      "needs_filming": false, "shot_list": [], "effort_minutes": 5,
+      "scheduled_day": "wed", "shoot_slot": null
+    },
+    {
+      "id": "p4", "format": "reel",
+      "title": "Myth: ಹಲ್ಲು ಕೀಳಿಸಿದ್ರೆ ಕಣ್ಣು ದುರ್ಬಲ ಆಗುತ್ತಾ?",
+      "title_en": "Myth: does pulling a tooth weaken your eyes?",
+      "hook": "ನಿಮ್ಮ ಮನೆಯಲ್ಲೂ ಯಾರಾದ್ರೂ ಇದನ್ನ ಹೇಳಿದ್ದಾರಾ?",
+      "why_this_works": "ಎಲ್ಲರೂ ಕೇಳಿರೋ ಒಂದು ನಂಬಿಕೆಯನ್ನ ಸರಳವಾಗಿ ತಿದ್ದಿದ್ರೆ, ಜನ comment ನಲ್ಲಿ ಮಾತಾಡ್ತಾರೆ.",
+      "why_this_works_en": "Gently correcting a myth everyone has heard gets people talking in the comments.",
+      "needs_filming": true,
+      "shot_list": [
+        { "shot": "ನಿಮ್ಮ ಧ್ವನಿಯಲ್ಲಿ 25 ಸೆಕೆಂಡ್ voice-over ರೆಕಾರ್ಡ್ ಮಾಡಿ. Script app ನಲ್ಲೇ ಇರುತ್ತೆ. ವಿಡಿಯೋದಲ್ಲಿ ನಿಮ್ಮ AI avatar ಮಾತಾಡುತ್ತೆ.", "shot_en": "Record a 25 s voice-over; the AI avatar made from your photo carries the visuals", "seconds": 25, "where": "clinic consultation room", "how": "ಬಾಗಿಲು ಮುಚ್ಚಿ, ಫೋನ್ ಅನ್ನು ಬಾಯಿಂದ ಒಂದು ಕೈ ದೂರ ಹಿಡಿಯಿರಿ." }
+      ],
+      "effort_minutes": 15, "scheduled_day": "thu", "shoot_slot": "thu 15:00, 30 min"
+    },
+    {
+      "id": "p5", "format": "carousel",
+      "title": "Floss ಮಾಡೋದು ನಿಜವಾಗ್ಲೂ ಬೇಕಾ?",
+      "title_en": "Do you really need to floss?",
+      "hook": "Brush ತಲುಪದ ಜಾಗ ನಿಮ್ಮ ಬಾಯಲ್ಲೇ ಇದೆ.",
+      "why_this_works": "\"ನಿಜವಾಗ್ಲೂ ಬೇಕಾ?\" ಅನ್ನೋ ಪ್ರಶ್ನೆ ಜನರ ಮನಸ್ಸಿನ ಅನುಮಾನವನ್ನೇ ಹೇಳುತ್ತೆ, ಅದಕ್ಕೆ ಓದ್ತಾರೆ.",
+      "why_this_works_en": "\"Do you really need it?\" voices the doubt people already have, so they read on.",
+      "needs_filming": false, "shot_list": [], "effort_minutes": 10,
+      "scheduled_day": "fri", "shoot_slot": null
+    }
+  ],
+  "stories": [
+    { "day": "mon", "type": "poll", "text": "ನಿಮ್ಮ ಮಗುವಿನ ಮೊದಲ dental visit ಆಗಿದೆಯಾ? ಹೌದು / ಇನ್ನೂ ಇಲ್ಲ", "text_en": "Has your child had a first dental visit? Yes / Not yet", "needs_photo": false, "photo_hint": null },
+    { "day": "tue", "type": "question", "text": "ಹಲ್ಲಿನ ಬಗ್ಗೆ ಏನು ಕೇಳಬೇಕು ಅನ್ನಿಸುತ್ತೆ? ಇಲ್ಲಿ type ಮಾಡಿ", "text_en": "What do you want to ask about teeth? Type here", "needs_photo": false, "photo_hint": null },
+    { "day": "wed", "type": "quiz", "text": "Toothbrush ಎಷ್ಟು ತಿಂಗಳಿಗೊಮ್ಮೆ ಬದಲಾಯಿಸಬೇಕು? 1 / 3 / 6", "text_en": "How often should you change your toothbrush? 1 / 3 / 6 months", "needs_photo": false, "photo_hint": null },
+    { "day": "thu", "type": "tip", "text": "ಸಿಹಿ ತಿಂದ ಮೇಲೆ ಒಂದು ಲೋಟ ನೀರಿನಿಂದ ಬಾಯಿ ಮುಕ್ಕಳಿಸಿ.", "text_en": "After sweets, rinse your mouth with a glass of water.", "needs_photo": false, "photo_hint": null },
+    { "day": "fri", "type": "behind_the_scenes", "text": "ಇವತ್ತು ಬೆಳಗ್ಗೆ clinic ನಲ್ಲಿ: sterilize ಆದ instruments ready.", "text_en": "This morning at the clinic: sterilised instruments ready.", "needs_photo": true, "photo_hint": "Sealed sterilisation pouches on a tray. No patients, no people." },
+    { "day": "sat", "type": "reminder", "text": "ಹೊಸ post: Floss ನಿಜವಾಗ್ಲೂ ಬೇಕಾ? Profile ನಲ್ಲಿ ನೋಡಿ.", "text_en": "New post: do you really need to floss? See profile.", "needs_photo": false, "photo_hint": null },
+    { "day": "sun", "type": "poll", "text": "ಮುಂದಿನ ವಾರ ಯಾವ ವಿಷಯ? Sensitivity / ಮಕ್ಕಳ ಹಲ್ಲು / Braces", "text_en": "Next week's topic? Sensitivity / Kids' teeth / Braces", "needs_photo": false, "photo_hint": null }
+  ],
+  "filtered_out": [
+    { "idea": "Before/after smile makeover reveal", "killed_by": "professional_rule", "reason": "NDC bans before/after photos for dentists" },
+    { "idea": "Patient testimonial video", "killed_by": "professional_rule", "reason": "NDC bans patient testimonials, and you never show patients" },
+    { "idea": "Live root canal ASMR clip", "killed_by": "professional_rule", "reason": "NDC bans recording procedures" },
+    { "idea": "\"Free check-up this week\" offer post", "killed_by": "professional_rule", "reason": "Offers and inducements count as soliciting patients under NDC" },
+    { "idea": "\"Best dentist in Jayanagar\" post", "killed_by": "professional_rule", "reason": "Superiority claims are banned by NDC" },
+    { "idea": "Day-in-the-life vlog of a dentist", "killed_by": "camera", "reason": "Needs your face on camera; you chose voice and AI avatar only" },
+    { "idea": "Trending dance reel with clinic staff", "killed_by": "camera", "reason": "Needs you dancing on camera; you freeze on camera" },
+    { "idea": "10-minute long explainer video every week", "killed_by": "time", "reason": "You have 90 minutes a week in 15-minute gaps" },
+    { "idea": "Street interviews: \"rate your smile\"", "killed_by": "place", "reason": "You can only film inside the clinic" },
+    { "idea": "Hindi trending-audio comedy skit", "killed_by": "language", "reason": "Your audience is Kannada and English speakers in south Bengaluru" },
+    { "idea": "Festival greeting with your family", "killed_by": "boundary", "reason": "You said no photos of your wife or child" },
+    { "idea": "Paid collab with a Bengaluru food influencer", "killed_by": "budget", "reason": "Costs far more than ₹3,000 a month, and it reads as soliciting" }
+  ]
+}

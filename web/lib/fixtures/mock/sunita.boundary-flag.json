@@ -1,0 +1,22 @@
+{
+  "verdict": "flag",
+  "reasons": [
+    { "rule_id": "CAMERA", "rule": "Camera level 1: hands only, her face must not appear", "where": "single_image.visual_hint", "excerpt": "face visible", "severity": "block" },
+    { "rule_id": "FAMILY", "rule": "No family members in frame", "where": "single_image.visual_hint", "excerpt": "her daughter beside her", "severity": "block" },
+    { "rule_id": "CULTURAL", "rule": "No non-vegetarian cooking or posts on Tuesdays", "where": "single_image.headline", "excerpt": "मंगलवार स्पेशल: लखनवी चिकन कोरमा", "severity": "block" }
+  ],
+  "explain": "इसमें आपका चेहरा और बेटी दिख रही है, और मंगलवार को नॉन-वेज भी है. तीनों बदलकर, शाकाहारी पनीर कोरमा कर दिया है.",
+  "explain_pass": "सब ठीक है. आपके हर नियम पर खरा उतरता है, पोस्ट कर सकते हैं!",
+  "safe_rewrite": {
+    "plan_id": "x2", "format": "single_image", "languages_out": ["hi"],
+    "carousel": null, "reel": null,
+    "single_image": {
+      "headline": "मंगलवार स्पेशल: लखनवी पनीर कोरमा",
+      "sub": "माँ के हाथ का स्वाद",
+      "visual_hint": "Top-down photo of the paneer korma handi in window light; hands only, no face, nobody else in frame"
+    },
+    "caption": [ { "lang": "hi", "text": "मंगलवार स्पेशल लखनवी पनीर कोरमा! घर पर बनाकर देखिए.\n\nRecipe chahiye toh comment karo!" } ],
+    "hashtags": ["#पनीरकोरमा", "#लखनऊकाखाना", "#शाकाहारी", "#LucknowFood"],
+    "story_text": { "lang": "hi", "text": "आज मंगलवार का पनीर कोरमा!" }
+  }
+}

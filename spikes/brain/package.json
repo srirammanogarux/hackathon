@@ -1,0 +1,14 @@
+{
+  "name": "brain-spike",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "demo": "node --env-file-if-exists=../../.env src/run-demo.mjs",
+    "demo:mock": "BRAIN_MOCK=1 node src/run-demo.mjs",
+    "test": "BRAIN_MOCK=1 node --test test/*.test.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.3.0",
+    "zod": "^4.6.7"
+  }
+}
