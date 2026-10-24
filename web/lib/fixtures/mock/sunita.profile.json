@@ -1,0 +1,30 @@
+{
+  "name": "Sunita",
+  "profession": "home cook",
+  "city": "Aliganj, Lucknow",
+  "language_in": "hi",
+  "languages_out": ["hi"],
+  "goal": "side_income",
+  "level": "never",
+  "what_they_share": "Everyday Lucknow home cooking: parathas, dal, sabzi and festival sweets like mathri and gujiya taught by her mother; wants to take Diwali sweet-box orders.",
+  "audience": { "type": "broad", "radius_km": null, "description": "Hindi speakers anywhere, especially women who cook for their families" },
+  "camera_level": 1,
+  "time_per_week": 150,
+  "shoot_slots": [
+    { "day": "mon", "start": "14:00", "minutes": 90, "note": "after lunch, family out" },
+    { "day": "tue", "start": "14:00", "minutes": 90, "note": "after lunch, family out; vegetarian only" },
+    { "day": "wed", "start": "14:00", "minutes": 90, "note": "after lunch, family out" },
+    { "day": "thu", "start": "14:00", "minutes": 90, "note": "after lunch, family out" },
+    { "day": "fri", "start": "14:00", "minutes": 90, "note": "after lunch, family out" },
+    { "day": "sat", "start": "14:00", "minutes": 90, "note": "after lunch, family out" }
+  ],
+  "places": ["home kitchen"],
+  "tech": { "phone": "old Samsung Android", "tripod": false, "light": "window", "internet": "patchy" },
+  "budget": 0,
+  "boundaries": {
+    "personal": ["never show her face", "no family members in frame", "never reveal home address", "no AI avatar"],
+    "cultural": ["no non-vegetarian cooking or posts on Tuesdays", "do not show the pooja corner"],
+    "professional": []
+  },
+  "inspirations": ["home cooking channels on YouTube"]
+}

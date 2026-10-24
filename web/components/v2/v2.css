@@ -1,0 +1,35 @@
+.v2-ios {
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  letter-spacing: -0.01em;
+}
+.v2-rm {
+  font-family: var(--font-dmsans), system-ui, sans-serif;
+  letter-spacing: -0.005em;
+}
+.v2-scroll { scrollbar-width: none; }
+.v2-scroll::-webkit-scrollbar { display: none; }
+
+@keyframes v2-in { from { opacity: 0; transform: translateY(10px) scale(.98); } to { opacity: 1; transform: none; } }
+.v2-in { animation: v2-in .32s cubic-bezier(.2,.8,.2,1) both; }
+
+@keyframes v2-sheet { from { transform: translateY(100%); } to { transform: none; } }
+.v2-sheet { animation: v2-sheet .42s cubic-bezier(.32,.72,0,1) both; }
+
+@keyframes v2-banner { from { opacity: 0; transform: translateY(-120%); } to { opacity: 1; transform: none; } }
+.v2-banner { animation: v2-banner .45s cubic-bezier(.32,.72,0,1) both; }
+
+@keyframes v2-fade { from { opacity: 0; } to { opacity: 1; } }
+.v2-fade { animation: v2-fade .3s ease-out both; }
+
+@keyframes v2-dot { 0%, 60%, 100% { transform: translateY(0); opacity: .45; } 30% { transform: translateY(-3px); opacity: 1; } }
+.v2-dot { animation: v2-dot 1.1s ease-in-out infinite; }
+
+
+@keyframes v2-progress { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+.v2-progress { transform-origin: left; animation-name: v2-progress; animation-timing-function: linear; animation-fill-mode: both; }
+
+@media (prefers-reduced-motion: reduce) {
+  .v2-in, .v2-sheet, .v2-banner, .v2-fade, .v2-dot { animation: none; }
+}
+

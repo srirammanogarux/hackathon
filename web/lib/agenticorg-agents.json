@@ -1,0 +1,26 @@
+{
+  "chief": {
+    "name": "Smiley — Chief",
+    "id": "3e9ec192-dd7d-4717-b719-6ada4c646305",
+    "status": "pending_approval",
+    "hitl_condition": "risk == 'high'"
+  },
+  "scout": {
+    "name": "Scout — Trends",
+    "id": "d4c4eaff-a453-4210-a888-fc687c77f605",
+    "status": "shadow",
+    "hitl_condition": ""
+  },
+  "writer": {
+    "name": "Writer — Scripts",
+    "id": "8594bfab-194f-4772-bfc3-7f65b5123694",
+    "status": "shadow",
+    "hitl_condition": ""
+  },
+  "editor": {
+    "name": "Editor — Reels",
+    "id": "0b0261da-1487-48d8-9c6b-50e8cb4c2b12",
+    "status": "shadow",
+    "hitl_condition": ""
+  }
+}

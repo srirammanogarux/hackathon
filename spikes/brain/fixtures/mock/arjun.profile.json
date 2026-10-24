@@ -1,0 +1,31 @@
+{
+  "name": "Dr. Arjun",
+  "profession": "dentist",
+  "city": "Bengaluru (Jayanagar)",
+  "language_in": "kn",
+  "languages_out": ["kn", "en"],
+  "goal": "customers",
+  "level": "never",
+  "what_they_share": "Simple explanations of dental health: children's teeth, brushing mistakes, sensitivity.",
+  "audience": { "type": "local", "radius_km": 5, "description": "Families in Jayanagar, JP Nagar and Banashankari who speak Kannada and English" },
+  "camera_level": 3,
+  "time_per_week": 90,
+  "shoot_slots": [
+    { "day": "weekdays", "start": null, "minutes": 15, "note": "2-3 gaps of 15 min between patients each day" },
+    { "day": "tue", "start": "15:00", "minutes": 30, "note": "quieter afternoon" },
+    { "day": "thu", "start": "15:00", "minutes": 30, "note": "quieter afternoon" }
+  ],
+  "places": ["clinic reception", "clinic consultation room"],
+  "tech": { "phone": "iPhone 13", "tripod": false, "light": "studio", "internet": "good" },
+  "budget": 3000,
+  "boundaries": {
+    "personal": ["no photos of wife or child", "Sunday is family time, no content work"],
+    "cultural": [],
+    "professional": [
+      "NDC advisory 14 Oct 2026: no testimonials, before/after photos, superiority claims, soliciting patients, or recording procedures",
+      "never show patients (privacy)",
+      "never speak negatively about other dentists"
+    ]
+  },
+  "inspirations": ["doctor explainer reels", "Kannada comedy reels"]
+}

@@ -1,0 +1,48 @@
+{
+  "event_type": "ORDER_PROCESSED",
+  "data": {
+    "order_id": "v1-251024123000-aa-RmTest1",
+    "merchant_order_reference": "orders_demo",
+    "type": "CHARGE",
+    "status": "PROCESSED",
+    "callback_url": "http://localhost:3000/pay/callback",
+    "failure_callback_url": "http://localhost:3000/pay/callback",
+    "merchant_id": "110047",
+    "order_amount": { "value": 24000, "currency": "INR" },
+    "pre_auth": false,
+    "notes": "Sunita's Kitchen: 2 x Veg thali",
+    "purchase_details": {
+      "customer": {
+        "first_name": "Rohit",
+        "customer_id": "192212",
+        "mobile_number": "9876543210",
+        "country_code": "91",
+        "billing_address": {},
+        "shipping_address": {}
+      },
+      "merchant_metadata": { "order_id": "orders_demo", "creator_id": "creators_demo" }
+    },
+    "payments": [
+      {
+        "id": "v1-251024123000-aa-RmTest1-up-s",
+        "merchant_payment_reference": "008cf04b-a770-4777-854e-b1e6c1230609",
+        "status": "PROCESSED",
+        "payment_amount": { "value": 24000, "currency": "INR" },
+        "payment_method": "UPI",
+        "payment_option": {
+          "upi_data": {
+            "txn_mode": "INTENT",
+            "payee": { "reference_id": "174425", "reference_type": "MERCHANT", "vpa": "pinelabs.24092@hdfcbank", "acquirer_name": "HDFC" },
+            "payer": { "vpa": "rohit@okicici", "phone_number": "919876543210", "account_type": "SAVINGS" }
+          }
+        },
+        "acquirer_data": { "approval_code": "00", "acquirer_reference": "462274903205", "rrn": "", "is_aggregator": true },
+        "created_at": "2025-10-24T12:30:02.024Z",
+        "updated_at": "2025-10-24T12:31:41.960Z"
+      }
+    ],
+    "created_at": "2025-10-24T12:30:00.024Z",
+    "updated_at": "2025-10-24T12:31:41.960Z",
+    "integration_mode": "REDIRECT"
+  }
+}

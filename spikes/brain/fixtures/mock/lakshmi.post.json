@@ -1,0 +1,18 @@
+{
+  "plan_id": "p1", "format": "reel", "languages_out": ["ta"],
+  "carousel": null,
+  "reel": { "duration_s": 24, "voiceover_lang": "ta", "lines": [
+    { "t_start": 0, "t_end": 4, "voiceover": "கருவேப்பிலை பொடி. மூணே பொருள், பத்தே நிமிஷம்.", "on_screen_text": "3 பொருள் • 10 நிமிஷம்", "shot": "Top-down: hands spread fresh curry leaves on a steel plate; phone leaned on a jar by the window" },
+    { "t_start": 4, "t_end": 8, "voiceover": "முதல்ல கருவேப்பிலையை எண்ணெய் இல்லாம மொறுமொறுப்பா வறுங்க.", "on_screen_text": "கருவேப்பிலை வறுங்க", "shot": "Close-up: hand stirring curry leaves in an iron kadai" },
+    { "t_start": 8, "t_end": 12, "voiceover": "அப்புறம் உளுந்தும் காய்ந்த மிளகாயும் பொன்னிறமா வறுங்க.", "on_screen_text": "உளுந்து + மிளகாய்", "shot": "Urad dal and dried chillies turning golden in the same kadai" },
+    { "t_start": 12, "t_end": 17, "voiceover": "நல்லா ஆறினதும், கொஞ்சம் உப்பு போட்டு கரகரப்பா அரைங்க.", "on_screen_text": "ஆறின பிறகு அரைங்க", "shot": "Hands pour the cooled mix into the mixie jar and close the lid" },
+    { "t_start": 17, "t_end": 21, "voiceover": "சூடான சாதத்துல ஒரு ஸ்பூன் பொடி, கொஞ்சம் நல்லெண்ணெய். அவ்வளவுதான்.", "on_screen_text": "சாதம் + பொடி + நல்லெண்ணெய்", "shot": "Top-down: hand mixing podi and sesame oil into rice on a banana leaf" },
+    { "t_start": 21, "t_end": 24, "voiceover": "எங்க அம்மா சொல்லிக்கொடுத்தது. நீங்களும் செஞ்சு பாருங்க.", "on_screen_text": "சேமிச்சு வைங்க", "shot": "Podi in a small steel dabba in window light, no people" }
+  ] },
+  "single_image": null,
+  "caption": [
+    { "lang": "ta", "text": "சூடான சாதத்துக்கு இதைவிட சுலபமான துணை இல்ல!\n\nகருவேப்பிலை பொடி: கருவேப்பிலை, உளுந்து, காய்ந்த மிளகாய். கொஞ்சம் உப்பு. பத்தே நிமிஷம். எங்க அம்மா சொல்லிக்கொடுத்த முறை இது.\n\nஒரு மாசம் வரைக்கும் காத்துப்புகாத டப்பாவுல வச்சுக்கலாம். நீங்க செஞ்சு பார்த்தா எப்படி இருந்துச்சுன்னு கீழே சொல்லுங்க." }
+  ],
+  "hashtags": ["#கருவேப்பிலைபொடி", "#தமிழ்சமையல்", "#வீட்டுசமையல்", "#பாரம்பரியசமையல்", "#மதுரைசமையல்", "#பொடி", "#CurryLeafPodi", "#TamilRecipes", "#SouthIndianFood", "#HomeCooking", "#Madurai"],
+  "story_text": { "lang": "ta", "text": "புது வீடியோ: பத்தே நிமிஷத்துல கருவேப்பிலை பொடி!" }
+}

@@ -1,0 +1,27 @@
+{
+  "verdict": "flag",
+  "reasons": [
+    { "rule_id": "NDC-SUPERIORITY", "rule": "No superiority or guarantee claims", "where": "single_image.headline", "excerpt": "best dentist", "severity": "block" },
+    { "rule_id": "NDC-BEFORE-AFTER", "rule": "No before/after photos", "where": "single_image.visual_hint", "excerpt": "before and after", "severity": "block" },
+    { "rule_id": "NDC-SOLICIT", "rule": "No soliciting patients or inducements", "where": "single_image.sub", "excerpt": "Free check-up", "severity": "block" },
+    { "rule_id": "NDC-TESTIMONIAL", "rule": "No patient testimonials or ratings", "where": "caption[0]", "excerpt": "happy patients", "severity": "block" },
+    { "rule_id": "PRIVACY", "rule": "Never show patients", "where": "single_image.visual_hint", "excerpt": "patient's teeth", "severity": "block" }
+  ],
+  "explain": "ಈ post ನಲ್ಲಿ NDC ನಿಯಮಕ್ಕೆ ವಿರುದ್ಧವಾದ ಕೆಲವು ಸಾಲುಗಳಿವೆ. ಅದೇ ವಿಷಯವನ್ನ ಮಾಹಿತಿ ರೂಪದಲ್ಲಿ ಸುರಕ್ಷಿತವಾಗಿ ಬರೆದಿದ್ದೀನಿ, ಒಮ್ಮೆ ನೋಡಿ.",
+  "explain_pass": "ಎಲ್ಲಾ ಸರಿ ಇದೆ. NDC ನಿಯಮಗಳಿಗೆ ತಕ್ಕಂತೆ ಇದೆ, post ಮಾಡಬಹುದು.",
+  "safe_rewrite": {
+    "plan_id": "x1", "format": "single_image", "languages_out": ["kn", "en"],
+    "carousel": null, "reel": null,
+    "single_image": {
+      "headline": "ಹಲ್ಲು ಹಳದಿ ಯಾಕೆ ಆಗುತ್ತೆ?",
+      "sub": "ಕಾಫಿ, ಟೀ, ತಂಬಾಕು, ಮತ್ತೆ ಸರಿಯಾಗಿ brush ಮಾಡದಿರೋದು ಮುಖ್ಯ ಕಾರಣಗಳು.",
+      "visual_hint": "Flat illustration of a coffee cup, a tea glass and a toothbrush. No people."
+    },
+    "caption": [
+      { "lang": "kn", "text": "ಹಲ್ಲು ಹಳದಿ ಆಗೋಕೆ ಸಾಮಾನ್ಯ ಕಾರಣಗಳು: ಕಾಫಿ, ಟೀ, ತಂಬಾಕು, ಮತ್ತೆ ಸರಿಯಾಗಿ brush ಮಾಡದಿರೋದು. ದಿನಕ್ಕೆ ಎರಡು ಸಲ brush ಮಾಡಿ, ಟೀ ಕಾಫಿ ಆದ್ಮೇಲೆ ನೀರಿನಿಂದ ಬಾಯಿ ಮುಕ್ಕಳಿಸಿ. ಅನುಮಾನ ಇದ್ರೆ ನಿಮ್ಮ dentist ಹತ್ರ ಕೇಳಿ." },
+      { "lang": "en", "text": "Common reasons teeth turn yellow: coffee, tea, tobacco and uneven brushing. Brush twice a day and rinse with water after tea or coffee. If unsure, ask your dentist." }
+    ],
+    "hashtags": ["#ಹಲ್ಲಿನಆರೋಗ್ಯ", "#OralHealthTips", "#DentalAwareness", "#Jayanagar", "#Bengaluru"],
+    "story_text": { "lang": "kn", "text": "ಹಲ್ಲು ಹಳದಿ ಯಾಕೆ ಆಗುತ್ತೆ? ಹೊಸ post ನೋಡಿ." }
+  }
+}

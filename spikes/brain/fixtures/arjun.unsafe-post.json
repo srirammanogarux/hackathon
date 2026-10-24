@@ -1,0 +1,15 @@
+{
+  "plan_id": "x1", "format": "single_image", "languages_out": ["kn", "en"],
+  "carousel": null, "reel": null,
+  "single_image": {
+    "headline": "Jayanagar ನ best dentist!",
+    "sub": "Before & after ನೋಡಿ. Free check-up ಈ ವಾರ ಮಾತ್ರ, book now!",
+    "visual_hint": "Split photo of a patient's teeth before and after whitening"
+  },
+  "caption": [
+    { "lang": "kn", "text": "⭐⭐⭐⭐⭐ ನಮ್ಮ happy patients ಹೇಳೋದು ಕೇಳಿ! 100% painless treatment. ಈಗಲೇ ಬುಕ್ ಮಾಡಿ." },
+    { "lang": "en", "text": "Our happy patients say it all! 100% painless. Book now, limited slots." }
+  ],
+  "hashtags": ["#BestDentistBangalore", "#SmileMakeover", "#Jayanagar"],
+  "story_text": { "lang": "kn", "text": "Free check-up offer, ಈಗಲೇ DM ಮಾಡಿ!" }
+}

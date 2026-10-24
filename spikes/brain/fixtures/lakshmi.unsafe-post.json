@@ -1,0 +1,12 @@
+{
+  "plan_id": "x2", "format": "single_image", "languages_out": ["ta"],
+  "carousel": null, "reel": null,
+  "single_image": {
+    "headline": "வெள்ளிக்கிழமை ஸ்பெஷல்: சிக்கன் குழம்பு",
+    "sub": "லட்சுமி அம்மாவின் கை மணம்",
+    "visual_hint": "Lakshmi smiling at the camera, holding the pot, face visible"
+  },
+  "caption": [ { "lang": "ta", "text": "வெள்ளிக்கிழமை ஸ்பெஷல் சிக்கன் குழம்பு! செஞ்சு பாருங்க." } ],
+  "hashtags": ["#சிக்கன்குழம்பு", "#தமிழ்சமையல்"],
+  "story_text": { "lang": "ta", "text": "வெள்ளிக்கிழமை சிக்கன் குழம்பு!" }
+}

@@ -1,0 +1,18 @@
+{
+  "plan_id": "p1", "format": "carousel", "languages_out": ["kn", "en"],
+  "carousel": { "slides": [
+    { "headline": "ಮಗುವಿನ ಮೊದಲ dental visit ಯಾವಾಗ?", "body": "ಹೆಚ್ಚಿನ parents \"ಹಲ್ಲು ನೋವಾದಾಗ\" ಅಂತಾರೆ. ಸರಿಯಾದ ಉತ್ತರ ಅದಕ್ಕಿಂತ ತುಂಬಾ ಮುಂಚೆ.", "visual_hint": "Bold Kannada headline on soft blue, small tooth illustration" },
+    { "headline": "ಮೊದಲ ಹಲ್ಲು ಬಂದ ಕೂಡಲೇ", "body": "ಮೊದಲ ಹಲ್ಲು ಕಾಣಿಸಿದ ಆರು ತಿಂಗಳೊಳಗೆ, ಅಥವಾ ಒಂದು ವರ್ಷದ ಹುಟ್ಟುಹಬ್ಬದ ಹೊತ್ತಿಗೆ ಒಮ್ಮೆ dentist ಗೆ ತೋರಿಸಿ.", "visual_hint": "Simple timeline: first tooth -> 6 months -> 1st birthday" },
+    { "headline": "ಯಾಕೆ ಅಷ್ಟು ಬೇಗ?", "body": "ಹಾಲು ಹಲ್ಲಿಗೂ cavity ಆಗುತ್ತೆ. ಬೇಗ ನೋಡಿದ್ರೆ ಸಣ್ಣ ಸಮಸ್ಯೆ ಸಣ್ಣದಾಗೇ ಉಳಿಯುತ್ತೆ.", "visual_hint": "Illustration of small milk teeth with one tiny dark spot" },
+    { "headline": "ರಾತ್ರಿ ಹಾಲಿನ ಬಾಟಲ್, ಎಚ್ಚರ", "body": "ಬಾಟಲ್ ಬಾಯಲ್ಲಿಟ್ಟುಕೊಂಡು ಮಲಗಿದ್ರೆ ಹಾಲು ಹಲ್ಲಿನ ಮೇಲೆ ನಿಲ್ಲುತ್ತೆ. ಮಕ್ಕಳ cavity ಗೆ ಇದು ದೊಡ್ಡ ಕಾರಣ.", "visual_hint": "Milk bottle icon with a moon" },
+    { "headline": "ಮನೆಯಲ್ಲೇ ಏನು ಮಾಡಬಹುದು?", "body": "ಹಲ್ಲು ಬರೋಕೆ ಮುಂಚೆ ಒದ್ದೆ ಬಟ್ಟೆಯಿಂದ ವಸಡು ಒರೆಸಿ. ಹಲ್ಲು ಬಂದ ಮೇಲೆ ಅಕ್ಕಿ ಕಾಳಿನಷ್ಟು toothpaste ಸಾಕು.", "visual_hint": "Toothbrush with a rice-grain sized dot of paste" },
+    { "headline": "ಉಪಯೋಗ ಆಯ್ತಾ? Save ಮಾಡಿ", "body": "ಹೊಸ parents ಜೊತೆ share ಮಾಡಿ. ಪ್ರತಿ ವಾರ ಹಲ್ಲಿನ ಬಗ್ಗೆ ಒಂದು simple ಮಾಹಿತಿ ಇಲ್ಲಿ ಸಿಗುತ್ತೆ.", "visual_hint": "Save and share icons, clinic name small at bottom" }
+  ] },
+  "reel": null, "single_image": null,
+  "caption": [
+    { "lang": "kn", "text": "ಮಗುವಿನ ಮೊದಲ dental visit ಯಾವಾಗ? ಹಲ್ಲು ನೋವಾದಾಗ ಅಲ್ಲ!\n\nಮೊದಲ ಹಲ್ಲು ಬಂದ ಆರು ತಿಂಗಳೊಳಗೆ, ಅಥವಾ ಒಂದನೇ ಹುಟ್ಟುಹಬ್ಬದ ಹೊತ್ತಿಗೆ ಒಮ್ಮೆ ತೋರಿಸೋದು ಒಳ್ಳೆಯದು. ಹಾಲು ಹಲ್ಲಿಗೂ cavity ಆಗುತ್ತೆ, ಬೇಗ ನೋಡಿದ್ರೆ ಸಣ್ಣ ಸಮಸ್ಯೆ ಸಣ್ಣದಾಗೇ ಉಳಿಯುತ್ತೆ.\n\nಹೊಸ parents ಗೆ ಉಪಯೋಗ ಆಗುತ್ತೆ ಅನ್ನಿಸಿದ್ರೆ share ಮಾಡಿ." },
+    { "lang": "en", "text": "When should your child first see a dentist? Not when it hurts!\n\nThe first visit is best within six months of the first tooth, or by the first birthday. Milk teeth can get cavities too, and catching small problems early keeps them small.\n\nSave this and share it with a new parent." }
+  ],
+  "hashtags": ["#ಹಲ್ಲಿನಆರೋಗ್ಯ", "#ಮಕ್ಕಳಆರೋಗ್ಯ", "#ಕನ್ನಡ", "#BengaluruParents", "#Jayanagar", "#JPNagar", "#KidsDentalCare", "#FirstDentalVisit", "#OralHealthTips", "#DentalAwareness", "#Bengaluru"],
+  "story_text": { "lang": "kn", "text": "ಮಗುವಿನ ಮೊದಲ dental visit ಯಾವಾಗ? ಹೊಸ post ನೋಡಿ." }
+}
